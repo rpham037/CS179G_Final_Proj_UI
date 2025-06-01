@@ -1,1 +1,7 @@
-# CS179G_Final_Proj_UI
+# CS179G Final Project UI
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Apache Spark (backend)
